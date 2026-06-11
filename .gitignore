@@ -1,0 +1,11 @@
+# Arquivos objeto compilados
+*.o
+
+# Arquivos executaveis
+*.exe
+
+# Configuracoes visuais locais do Dev-C++
+*.layout
+
+# Makefile gerado automaticamente pelo Windows/Dev-C++
+Makefile.win
